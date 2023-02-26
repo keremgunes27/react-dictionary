@@ -83,7 +83,7 @@ function WordList({ wordText }) {
                 <a
                   className="text-blue-600 hover:underline"
                   target={"_blank"}
-                  href="keremgunes.com.tr"
+                  href="https://keremgunes.com.tr/"
                 >
                   Kerem Güneş
                 </a>
